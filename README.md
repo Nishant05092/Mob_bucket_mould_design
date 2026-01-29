@@ -44,26 +44,7 @@ The final design follows **DFM (Design for Manufacturing)** principles and is su
 
 ## 📂 Project Structure
 
-```text
-MOB_Bucket_Mould/
-│
-├── CAD_Files/
-│   ├── MOB_Bucket_Part.x_t
-│   ├── Core_Insert.x_t
-│   ├── Cavity_Insert.x_t
-│   └── Mould_Assembly.x_t
-│
-├── Renders/
-│   ├── Bucket_Outer_View.png
-│   ├── Bucket_Inner_View.png
-│   ├── Mould_Assembly_View.png
-│   └── Cooling_Channel_View.png
-│
-├── Drawings/
-│   └── Key_Mould_Plates_2D_Drawings.pdf
-│
-└── README.md
-```
+
 ## 🔍 Design Features & Engineering Details
 
 ### 🧩 1. Part Design & Analysis
